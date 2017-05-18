@@ -1,1 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
+#src/main/resources/
+#src/test/
+target/
+*.iws
+*.iml
+*.ipr
+/out/
+.idea/workspace.xml
+.idea/vcs.xml
+
