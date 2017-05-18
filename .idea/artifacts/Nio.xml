@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Nio">
+    <output-path>$PROJECT_DIR$/out/artifacts/Nio</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="archive" name="Nio.jar">
+          <element id="module-output" name="Nio" />
+        </element>
+        <element id="library" level="project" name="Maven: io.netty:netty-all:5.0.0.Alpha1" />
+      </element>
+    </root>
+  </artifact>
+</component>
